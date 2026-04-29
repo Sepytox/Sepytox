@@ -1,18 +1,16 @@
 <h1 align="center">Hi 👋, I'm Sepytox</h1>
-<h3 align="center">Passionate Developer from Switzerland 🇨🇭</h3>
+<h3 align="center">Young Developer from Switzerland 🇨🇭</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Java+Developer;Spring+Boot+Enthusiast;React+Frontend+Builder;Android+App+Creator;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Always+Learning+New+Things" />
 </p>
 
 ---
 
 ## 🚀 About Me
-
-- 💻 I love building fullstack applications  
-- 🌱 Currently learning more about scalable systems  
-- 📱 Building Android Apps with Java  
-- ⚙️ Working with Docker, MQTT & Grafana  
+  
+- 🌱 Currently learning more about implementation of AI
+- ⚙️ Working with Java 
 - 🎯 Goal: Become a professional Software Engineer  
 
 ---
@@ -25,12 +23,10 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ### 🛠 Tools & Databases
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
