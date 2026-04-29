@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-![Static Badge](https://img.shields.io/badge/:badgeContent)
+![](https://github-readme-stats.vercel.app/api?username=Sepytox&show_icons=true&theme=dracula)
