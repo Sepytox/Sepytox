@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sepytox</h1>
+<h1 align="center">Hi 👋, I'm Miro</h1>
 <h3 align="center">Young Developer from Switzerland 🇨🇭</h3>
 
 <p align="center">
