@@ -9,8 +9,8 @@
 
 ## 🚀 About Me
   
-- 🌱 Currently learning more about implementation of AI
-- ⚙️ Working with Java 
+- 🌱 Currently learning more about implementation of AI and the usage of AI agents
+- ⚙️ Working with Java, Python 
 - 🎯 Goal: Become a professional Software Engineer  
 
 ---
